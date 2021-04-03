@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn more reactjs version 2
+          Learn more reactjs version 2 okkkkk
         </a>
       </header>
     </div>
